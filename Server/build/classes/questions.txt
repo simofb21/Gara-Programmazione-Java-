@@ -1,0 +1,12 @@
+Come si stampa "Hello" in C?|printf("Hello");|4
+Qual è il valore di 7 % 3 in C?|1|4
+Come si crea un oggetto della classe MyClass in Java?|new MyClass();|5
+Qual è il risultato di 10/3 in Java (divisione intera)?|3|5
+Qual è il valore di 2 === "2" in JavaScript?|false|6
+Come si crea una lista vuota in Python?|[]|4
+Qual è il risultato di len("hello") in Python?|5|4
+Come si converte "15" in numero intero in JavaScript?|parseInt("15")|4
+Come si selezionano tutti i record da utenti in SQL?|SELECT * FROM utenti;|4
+Come si conta il numero di righe della tabella utenti in SQL?|SELECT COUNT(*) FROM utenti;|5
+Qual è il type di 3.14 in Python?|float|3
+Qual è l’operatore logico AND in C?|&&|2

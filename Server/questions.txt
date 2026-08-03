@@ -1,0 +1,10 @@
+Come si stampa "Hello" in C?|printf("Hello");|5
+Come includo la libreria per le stringhe in c?|#include <string.h>|5
+Come si crea un oggetto della classe MyClass in Java?|new MyClass();|5
+Come stampo a schermo il messaggio "Viva Java" in Java|System.out.println("Viva Java");|6
+Qual è il valore di 2 === "2" in JavaScript?|false|8
+Come faccio un ciclo for da 1 a 100, con variabile i , in C|for(int i=1;i<=100;i++)|5
+Qual è il risultato di len("hello") in Python?|5|5
+Come si selezionano tutti i record da una tabella che si chiama utenti in SQL?|SELECT * FROM utenti;|4
+Qual ' è l'output di questo codice?int a = 2; if(a%2==0)printf("%d,pari",a*100);|200,pari|4
+Qual è l’operatore logico AND in C?|&&|3
